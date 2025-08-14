@@ -53,11 +53,13 @@ function verificarChute() {
     };
 };
 
+console.log("isso é um teste");
+
 function limparCampo() {
     chute = document.querySelector("input");
     chute.value = "";
 };
-
+ 
 function reiniciarJogo() {
     numeroSecreto = gerarNumero();
     limparCampo();
