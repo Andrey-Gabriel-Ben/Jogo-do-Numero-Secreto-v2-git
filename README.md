@@ -4,4 +4,10 @@
 
 
 
-![badge de desenvolvimento concluido](https://img.shields.io/badge/Status%20-%20Desenvolimento%20Concluido%20-%20green?style=for-the-badge)
+<p align="center">
+<img loading="lazy" src="https://img.shields.io/badge/Status%20-%20Desenvolimento%20Concluido%20-%20green?style=for-the-badge" alt="badge de desenvolvimento concluido"/>
+</p>
+
+<p align="center">
+<img loading="lazy" src="https://img.shields.io/github/stars/Andrey-Gabriel-Ben/Jogo-do-Numero-Secreto-v2-git?style=for-the-badge&color=yellow" alt="badge de estrelas do projeto"/>
+</p>
