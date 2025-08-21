@@ -1,4 +1,4 @@
-![Imagem de uma moça com estilo futurista e ao lado o nome do projeto "Número Secreto", com fundo roxo](https://imgur.com/a/h9PyjVT)
+![Imagem de uma moça com estilo futurista e ao lado o nome do projeto "Número Secreto", com fundo roxo](img\imagem_projeto.png)
 
 <h1 align="center"> Jogo do Número Secreto </h1>
 
