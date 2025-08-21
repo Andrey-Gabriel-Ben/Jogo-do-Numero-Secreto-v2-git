@@ -1,4 +1,4 @@
-![Imagem de uma moça com estilo futurista e ao lado o nome do projeto "Número Secreto", com fundo roxo](img\imagem_projeto.png)
+<img width="1536" height="1024" alt="Imagem de uma moça com estilo futurista e ao lado o nome do projeto "Número Secreto", com fundo roxo" src="https://github.com/user-attachments/assets/12b291bb-53cc-4665-99b4-1f9a1a3f0656" />
 
 
 
