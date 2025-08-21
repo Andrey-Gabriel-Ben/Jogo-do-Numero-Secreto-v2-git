@@ -1,5 +1,7 @@
 ![Imagem de uma moça com estilo futurista e ao lado o nome do projeto "Número Secreto", com fundo roxo](img\imagem_projeto.png)
 
+
+
 <h1 align="center"> Jogo do Número Secreto </h1>
 
  
@@ -26,3 +28,35 @@
          Vale ressaltar também que foram realizadas algumas alterações no projeto-base oferecido pelo curso, visando gerar uma identidade visual mais única.
 
 #
+
+
+<center>
+<p style="font-size: 30px;"> Istrutores do Curso </p>
+
+|<img loading="lazy" src="https://avatars.githubusercontent.com/u/51282495?v=4" width=115><br>| <img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br> |<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br>| <img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br>|
+|:-:|:-:|:-:|:-:|
+| [Monica Hillman](https://github.com/monicahillman) | [Guilherme Lima](https://github.com/guilhermeonrails) | [Rodrigo Caneppele](https://github.com/rcaneppele) | [Gabrielle Ribeiro](https://github.com/Gabrielle-Ribeiro) |
+</center>
+
+
+#
+
+<center> 
+<p style="font-size: 30px;"> Aluno </p>
+
+|<img loading="lazy" src="https://avatars.githubusercontent.com/u/212790993?v=4" width=115><br>|
+| :-: |
+| [Andrey Gabriel Ben](https://github.com/Andrey-Gabriel-Ben) |
+
+</center>
+
+
+
+
+
+
+
+
+
+
+
