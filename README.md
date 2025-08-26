@@ -31,6 +31,12 @@ Vale ressaltar também que foram realizadas algumas alterações no projeto-base
 
 #
 
+<p align="center" style="font-size: 30px;"> Como acessar o jogo? </p>
+
+Para acessar o jogo é bem simples, basta clicar [AQUI](https://jogo-do-numero-secreto-20-two.vercel.app/) e você será redirecionado para o site da Vercel onde o nosso jogo está hospedado.
+
+#
+
 <p style="font-size: 30px;"> Istrutores do Curso: </p>
 
 |<img loading="lazy" src="https://avatars.githubusercontent.com/u/51282495?v=4" width=115><br>| <img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br> |<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br>| <img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br>|
